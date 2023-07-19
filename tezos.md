@@ -1,76 +1,64 @@
+This three-day bootcamp and workshop will allow participants to get familiar with Tezos, understand the development process, and engage in practical sessions to reinforce the concepts taught.
 
-**1. Introduction to Blockchain and Cryptocurrencies**
-   
-   a. Overview of blockchain technology
-   
-   b. Basics of cryptocurrencies
-   
-   c. Importance and uses of blockchain and cryptocurrencies 
+**Day 1: Introduction and Deep Dive into Tezos**
 
-**2. Deep Dive into Tezos**
-   
-   a. History and mission of Tezos
-   
-   b. How Tezos works: Explaining the Tezos protocol, its architecture, and its use of proof-of-stake
-   
-   c. Unique features of Tezos: on-chain governance, smart contract security, baking/staking
-   
-   d. Use-cases and real-world applications of Tezos
+*Morning Session*:
 
-**3. Understanding Tezos' Ecosystem**
+   1.1. Introduction to Blockchain and Cryptocurrencies
+   
+   1.2. Deep Dive into Tezos:
+   
+      - History and mission of Tezos
+      - How Tezos works: The Tezos protocol and its architecture
+      - Unique features of Tezos
 
-   a. Key stakeholders in the Tezos ecosystem: developers, bakers, and token holders
-   
-   b. Overview of Tezos Foundation and its role
-   
-   c. Major projects and partnerships in the Tezos ecosystem 
+*Afternoon Session*:
 
-**4. Tezos Development 101**
+   1.3. Understanding Tezos' Ecosystem
+   
+   1.4. Recap of Day 1 and Q&A Session
 
-   a. Introduction to Tezos' native smart contract language, Michelson
-   
-   b. Overview of development tools and environments for Tezos: SmartPy, LIGO, TezBox, etc.
-   
-   c. Hands-on session: Creating a simple smart contract on Tezos
-   
-   d. Deploying and testing a Tezos smart contract 
+**Day 2: Hands-on Tezos Development**
 
-**5. Advanced Topics in Tezos Development** (optional, based on audience)
+*Morning Session*:
 
-   a. Understanding the Tezos RPC API
+   2.1. Tezos Development 101:
    
-   b. Building decentralized applications (dApps) on Tezos
-   
-   c. Security practices for Tezos development
-   
-   d. Hands-on session: Building a simple dApp on Tezos
+      - Introduction to Michelson
+      - Overview of development tools for Tezos
 
-**6. Tezos Governance and Economics**
+   2.2. Hands-on Session: Creating a simple smart contract on Tezos
 
-   a. Understanding Tezos' on-chain governance mechanism
-   
-   b. The economics of staking (baking) in Tezos
-   
-   c. Participating in Tezos governance: how proposals and voting work 
+*Afternoon Session*:
 
-**7. Current Trends and Future Directions for Tezos**
-
-   a. Current trends in the Tezos ecosystem
+   2.3. Advanced Topics in Tezos Development (Based on Audience)
    
-   b. Upcoming features and upgrades in the Tezos protocol
-   
-   c. Future outlook and potential uses of Tezos 
+      - Building decentralized applications (dApps) on Tezos
+      - Security practices for Tezos development
 
-**8. Workshop Conclusion and Q&A Session**
+   2.4. Hands-on Session: Building a simple dApp on Tezos
 
-   a. Recap of the workshop
-   
-   b. Resources for further learning
-   
-   c. Open Q&A session
-   
-   d. Feedback collection
+   2.5. Recap of Day 2 and Q&A Session
 
-**9. Post-Workshop Networking and Mingling** (optional)
+**Day 3: Tezos Governance, Economics, and Future Directions**
 
-Remember that every workshop will have different requirements and it's crucial to align the workshop content with the audience's needs and expectations. This is a general outline and it may need adjustment based on your specific situation.
+*Morning Session*:
+
+   3.1. Tezos Governance and Economics
+   
+      - Understanding Tezos' on-chain governance mechanism
+      - The economics of staking (baking) in Tezos
+
+   3.2. Current Trends and Future Directions for Tezos
+
+*Afternoon Session*:
+
+   3.3. Workshop Conclusion: Recap and Resources for Further Learning
+   
+   3.4. Open Q&A Session and Feedback Collection
+
+*Post-Workshop Session*:
+
+   3.5. Networking and Mingling: An optional session for participants to interact and network
+
+This schedule is structured to ensure the progressive build-up of knowledge, with each day's learning serving as a foundation for the next. Remember to allow for regular breaks during the sessions to keep participants engaged and energized.
